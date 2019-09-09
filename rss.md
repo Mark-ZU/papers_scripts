@@ -1,5 +1,10 @@
 # Robotics Science and Systems
 
-[rss2017 ac papers](http://rss2017.lids.mit.edu/program/papers/)
-[rss2018 ac papers](https://rislab.github.io/rss2018website/program/papers/)
-[rss2019 ac papers](http://www.roboticsconference.org/program/papers/)
+```
+http://www.roboticsproceedings.org/rss15/p[01-85].pdf
+
+http://www.roboticsproceedings.org/rss14/p[01-71].pdf
+
+http://www.roboticsproceedings.org/rss13/p[01-75].pdf
+```
+
